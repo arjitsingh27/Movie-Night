@@ -1,0 +1,44 @@
+.footer{
+    height: inherit;
+    padding-bottom: 100px;
+    color: white;
+    padding-top: 80px;
+    text-align: center;
+    object-fit: contain;
+
+
+}
+
+.footer-heading{
+    text-align: center;
+}
+
+.footer-content{
+    padding-top: 20px;
+    text-align: center;
+    margin-left: 450px;
+    margin-right: 450px;
+}
+
+.footer-btn{
+    cursor: pointer;
+    color: #fff;
+    outline: none;
+    border: none;
+    margin-top: 20px;
+    font-weight: 700;
+    border-radius: 0.2vw;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    background-color: rgba(233, 20, 20, 0.993);
+}
+
+.footer-btn:hover{
+    color: #000;
+    background-color: #e6e6e6;
+    transition: all 0.2s;
+}
+
+
